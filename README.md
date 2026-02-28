@@ -2,7 +2,7 @@
 
 ## Docente
 
-* Titular: Mg. Ing. Pablo Pandolfo
+* **Titular**: Mg. Ing. Pablo Pandolfo
 
 ## Objetivos
 
